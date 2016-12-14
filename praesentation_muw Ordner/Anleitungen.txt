@@ -1,0 +1,86 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: praesentation_muw.indd
+
+PACKDATUM: 14.12.16 23:22
+Erstellungsdatum 14.12.16
+Änderungsdatum: 14.12.16
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: Kevin Brandao da Graca
+Adresse: 
+Sonnenland 40
+22115
+
+
+
+Telefon: 04028054402
+Fax: 
+E-Mail: k.brandao-graca@gmx.de
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Auf Seite2, 3, 4, 6
+
+SCHRIFTARTEN
+4 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Helvetica; Typ: TrueType, Status: OK
+- Name: Helvetica-Bold; Typ: TrueType, Status: OK
+- Name: Helvetica-BoldOblique; Typ: TrueType, Status: OK
+- Name: Helvetica-Oblique; Typ: TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 38 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 31 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Geräteunabhängig, (PostScript®-Datei)
+Druckausgabe: Prepress-Datei
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Alle
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: A3
+Papierabmessungen: 0 mm x 0 mm
+Format: Querformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. praesentation_muw.indd; Typ: Adobe InDesign-Satzdatei; Größe: 2504K
+2. Helvetica.dfont; Typ: Schriftartendatei; Größe: 2502K
